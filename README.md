@@ -7,4 +7,4 @@ Solved more than 300 problems(Medium/Hard) related to Data structures (Tree, Seg
 My programming Handles:
 
 Codeforces: https://codeforces.com/profile/chiragg209                         
-Hackerank: https://www.hackerrank.com/chiragism
+Hackerank: https://www.hackerrank.com/chiragg209
